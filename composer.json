@@ -1,0 +1,24 @@
+{
+  "name": "label305/octo",
+  "description": "Elegant and scalable permission management for Laravel",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Joris Blaak",
+      "email": "joris@label305.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Octo\\": "src/",
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "mockery/mockery": "^0.9.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.4"
+  }
+}
