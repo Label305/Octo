@@ -1,6 +1,8 @@
 Octo
 ====
 
+[![Build Status](https://travis-ci.org/Label305/Octo.svg?branch=master)](https://travis-ci.org/Label305/Octo)
+
 For structuring roles and their permissions in a flexible and clear way.
 
 __Work in progress!__
