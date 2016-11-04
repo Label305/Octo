@@ -1,0 +1,9 @@
+language: php
+php:
+  - 7.0
+sudo: false
+cache:
+    directories:
+        - $HOME/.composer/cache
+install:
+  - composer install --prefer-source --quiet --no-interaction --ignore-platform-reqs
